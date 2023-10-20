@@ -261,7 +261,9 @@ Syntax: mail -s "Subject" <recipient address>
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
+
 ![image](https://github.com/1808charitha/Ex-01-Linux-Commands/assets/132996838/c04c158b-9559-4007-b1f1-37c47f2f97aa)
+
 
 
 ### 30)	find Command
