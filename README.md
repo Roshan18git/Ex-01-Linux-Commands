@@ -1,5 +1,7 @@
 # Ex-01-Linux-Commands
 
+# Name: Roshan G
+# Reg.no: 212223040176
 
 ## Aim:
 
